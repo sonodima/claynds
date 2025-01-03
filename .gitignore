@@ -1,0 +1,6 @@
+# Compilation Outputs
+[Bb]uild/
+[Aa]rtifacts.tar
+
+# macOS Desktop
+.DS_Store
